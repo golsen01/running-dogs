@@ -1,16 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
 
-<style type="text/css">
-.both {background-image: "omfgdogs.gif"; background-repeat: repeat;}
-</style> 
-</head>
-
-<body class = "both">
+body 
+{
+  background-image: "omfgdogs.gif"; 
+  background-repeat: repeat;
+}
 
 
-</body>
-</html>
+
+
+
 
 
