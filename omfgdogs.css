@@ -3,13 +3,11 @@
 <head>
 
 <style type="text/css">
-.vert {background-image: url(myImage.gif); background-repeat: repeat-y;}
-.horiz {background-image: url(myImage.gif); background-repeat: repeat-x;}
-.both {background-image: url(myImage.gif); background-repeat: repeat;}
+.both {background-image: "omfgdogs.gif"; background-repeat: repeat;}
 </style> 
 </head>
 
-<body class = "vert">
+<body class = "both">
 
 
 </body>
