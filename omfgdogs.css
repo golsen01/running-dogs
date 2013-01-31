@@ -11,8 +11,8 @@ h1
   color: black;
   font-weight: bold;
   position: fixed;
-  bottom: 0px;
-  right: 0px;
+  top: 0px;
+  left: 0px;
 }
 
 
